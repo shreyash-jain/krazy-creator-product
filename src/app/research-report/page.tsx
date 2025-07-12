@@ -1,10 +1,10 @@
 "use client"
 
 import { useState, useEffect } from "react"
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+
 import { Button } from "@/components/ui/button"
 import { Separator } from "@/components/ui/separator"
-import { FileText, Users, Workflow, Target, Lightbulb, Layout, ArrowUp, Image as ImageIcon, BookOpen, ChevronRight, Menu, X, DollarSign } from "lucide-react"
+import { FileText, Users, Workflow, Target, Lightbulb, Layout, ArrowUp, BookOpen, ChevronRight } from "lucide-react"
 
 export default function ResearchReport() {
   const [activeSection, setActiveSection] = useState("")
@@ -322,7 +322,7 @@ export default function ResearchReport() {
                               </li>
                               <li className="flex items-start space-x-3">
                                 <div className="w-1.5 h-1.5 bg-neutral-400 rounded-full mt-2 flex-shrink-0"></div>
-                                <span>Researched client's target market</span>
+                                <span>Researched client&apos;s target market</span>
                               </li>
                               <li className="flex items-start space-x-3">
                                 <div className="w-1.5 h-1.5 bg-neutral-400 rounded-full mt-2 flex-shrink-0"></div>
@@ -1031,7 +1031,7 @@ export default function ResearchReport() {
                           <p><strong>Quality Check Manager</strong></p>
                         </div>
                         <div className="text-xs text-neutral-600 bg-yellow-50 px-3 py-2 rounded border border-yellow-200">
-                          <strong>KK USP:</strong> In-house quality check by KK's dedicated team
+                          <strong>KK USP:</strong> In-house quality check by KK&apos;s dedicated team
                         </div>
                       </div>
                     </div>
@@ -1181,7 +1181,7 @@ export default function ResearchReport() {
                         </div>
                         <div>
                           <h4 className="font-bold text-neutral-900">Custom Phases</h4>
-                          <p className="text-sm text-neutral-600">Defines custom phases for each project (e.g., "30 Days – Stitching")</p>
+                          <p className="text-sm text-neutral-600">Defines custom phases for each project (e.g., &ldquo;30 Days – Stitching&rdquo;)</p>
                         </div>
                       </div>
                       <div className="flex items-start space-x-3">
@@ -1470,11 +1470,11 @@ export default function ResearchReport() {
                       </div>
                       <div className="space-y-3">
                         <div className="bg-white p-4 rounded border">
-                          <p className="text-lg font-bold text-neutral-900 mb-2">"Your Creative Partner & Production Powerhouse"</p>
+                          <p className="text-lg font-bold text-neutral-900 mb-2">&ldquo;Your Creative Partner & Production Powerhouse&rdquo;</p>
                           <p className="text-sm text-neutral-600">Bold statement headline</p>
                         </div>
                         <div className="bg-neutral-900 text-white p-3 rounded text-center">
-                          <p className="font-bold">"Start Your Project" → Lead Form</p>
+                          <p className="font-bold">&ldquo;Start Your Project&rdquo; → Lead Form</p>
                         </div>
                       </div>
                     </div>
@@ -1578,7 +1578,7 @@ export default function ResearchReport() {
                         <div className="w-8 h-8 bg-neutral-700 rounded-full flex items-center justify-center mr-3">
                           <span className="text-white text-sm font-bold">6</span>
                         </div>
-                        <h4 className="text-lg font-bold text-neutral-900">Why We're Different</h4>
+                        <h4 className="text-lg font-bold text-neutral-900">Why We&apos;re Different</h4>
                       </div>
                       <div className="space-y-3">
                         <p className="text-sm text-neutral-700">Comparison with others</p>
@@ -1636,7 +1636,7 @@ export default function ResearchReport() {
                           </div>
                         </div>
                         <div className="bg-neutral-900 text-white p-3 rounded text-center">
-                          <p className="font-bold text-sm">"Get Weekly Fashion Insights"</p>
+                          <p className="font-bold text-sm">&ldquo;Get Weekly Fashion Insights&rdquo;</p>
                         </div>
                       </div>
                     </div>

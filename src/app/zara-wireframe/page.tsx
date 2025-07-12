@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { FiPackage, FiShoppingCart, FiDatabase, FiBookOpen, FiDownload, FiTrendingUp, FiUsers, FiDollarSign, FiZap, FiTarget } from 'react-icons/fi';
+import { FiPackage, FiShoppingCart, FiDatabase, FiBookOpen, FiDownload, FiTrendingUp, FiUsers, FiZap, FiTarget } from 'react-icons/fi';
 
 export default function ZaraWireframe() {
   const [mounted, setMounted] = useState(false);
@@ -397,7 +397,7 @@ export default function ZaraWireframe() {
                   <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
                   <div className="absolute bottom-0 left-0 right-0 p-6">
                     <div className="text-white/90 text-sm font-light italic">
-                      "See your concepts come to life through collaborative design sessions"
+                      &ldquo;See your concepts come to life through collaborative design sessions&rdquo;
                     </div>
                   </div>
                 </div>
@@ -416,7 +416,7 @@ export default function ZaraWireframe() {
                   <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
                   <div className="absolute bottom-0 left-0 right-0 p-6">
                     <div className="text-white/90 text-sm font-light italic">
-                      "Witness the transformation from sketches to physical samples"
+                      &ldquo;Witness the transformation from sketches to physical samples&rdquo;
                     </div>
                   </div>
                 </div>
@@ -503,7 +503,7 @@ export default function ZaraWireframe() {
                   <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
                   <div className="absolute bottom-0 left-0 right-0 p-6">
                     <div className="text-white/90 text-sm font-light italic">
-                      "Watch your collection come to life in our production facilities"
+                      &ldquo;Watch your collection come to life in our production facilities&rdquo;
                     </div>
                   </div>
                 </div>
@@ -522,7 +522,7 @@ export default function ZaraWireframe() {
                   <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
                   <div className="absolute bottom-0 left-0 right-0 p-6">
                     <div className="text-white/90 text-sm font-light italic">
-                      "Final quality assurance before your collection reaches the market"
+                      &ldquo;Final quality assurance before your collection reaches the market&rdquo;
                     </div>
                   </div>
                 </div>
@@ -810,7 +810,7 @@ export default function ZaraWireframe() {
               How Krazy Kreators Is Different
             </h2>
             <p className="text-lg md:text-xl text-gray-600 font-light max-w-3xl mx-auto leading-relaxed">
-              We're not just another vendor. We're your creative growth partner.
+              We&apos;re not just another vendor. We&apos;re your creative growth partner.
             </p>
           </div>
 
@@ -1166,7 +1166,7 @@ export default function ZaraWireframe() {
               A Personalized Brand. Built on Transparency and Craft.
             </p>
             <p className="text-base md:text-lg text-[#CBB49A] font-light tracking-wide">
-              We don't chase speed. We chase quality.
+              We don&apos;t chase speed. We chase quality.
             </p>
           </div>
 
@@ -1379,7 +1379,7 @@ export default function ZaraWireframe() {
               Styled by Us. Spoken by Them.
             </h2>
             <p className="text-lg md:text-xl text-gray-600 font-light max-w-3xl mx-auto leading-relaxed">
-              Real stories from real fashion entrepreneurs who've partnered with Krazy Kreators — and turned ideas into brands.
+              Real stories from real fashion entrepreneurs who&apos;ve partnered with Krazy Kreators — and turned ideas into brands.
             </p>
           </div>
 
@@ -1422,7 +1422,7 @@ export default function ZaraWireframe() {
                       Founder, Maison Verde
                     </p>
                     <p className="text-base text-gray-600 font-light leading-relaxed">
-                      "Krazy Kreators didn't just manufacture our collection — they educated us on sustainable practices that became our brand's foundation."
+                      &ldquo;Krazy Kreators didn&apos;t just manufacture our collection — they educated us on sustainable practices that became our brand&apos;s foundation.&rdquo;
                     </p>
                   </div>
                 </div>
@@ -1464,7 +1464,7 @@ export default function ZaraWireframe() {
                       Creative Director, Urban Edge
                     </p>
                     <p className="text-base text-gray-600 font-light leading-relaxed">
-                      "From concept to production, their team guided us through every step. The quality and attention to detail exceeded our expectations."
+                      &ldquo;From concept to production, their team guided us through every step. The quality and attention to detail exceeded our expectations.&rdquo;
                     </p>
                   </div>
                 </div>
@@ -1506,7 +1506,7 @@ export default function ZaraWireframe() {
                       Founder, Minimalist Studio
                     </p>
                     <p className="text-base text-gray-600 font-light leading-relaxed">
-                      "Their zero-waste production process helped us create a truly sustainable capsule collection that our customers love."
+                      &ldquo;Their zero-waste production process helped us create a truly sustainable capsule collection that our customers love.&rdquo;
                     </p>
                   </div>
                 </div>
@@ -1525,7 +1525,7 @@ export default function ZaraWireframe() {
               Your Toolkit to Build Better
             </h2>
             <p className="text-lg md:text-xl text-gray-600 font-light max-w-3xl mx-auto leading-relaxed">
-              Get exclusive access to Krazy Kreators' tech packs and trend insights. Just tell us who you are — and we'll share the goods.
+              Get exclusive access to Krazy Kreators&apos; tech packs and trend insights. Just tell us who you are — and we&apos;ll share the goods.
             </p>
           </div>
 
@@ -1862,10 +1862,10 @@ export default function ZaraWireframe() {
           {/* Header */}
           <div className="text-center mb-16 md:mb-24">
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-serif text-[#111111] mb-6 tracking-wide">
-              FAQs — Let's Clear It Up
+              FAQs — Let&apos;s Clear It Up
             </h2>
             <p className="text-lg md:text-xl text-gray-600 font-light max-w-2xl mx-auto leading-relaxed">
-              Here are a few things fashion brands often ask us. Still have questions? We're just a message away.
+              Here are a few things fashion brands often ask us. Still have questions? We&apos;re just a message away.
             </p>
           </div>
 
@@ -1877,7 +1877,7 @@ export default function ZaraWireframe() {
                 answer: "Our monthly retainer gives you full access to our design, production, and sourcing teams. You pay a fixed monthly fee and get unlimited support for your fashion projects. No hidden costs, no minimum order quantities — just a dedicated team ready to help you grow your brand."
               },
               {
-                question: "What's the minimum order quantity (MOQ)?",
+                question: "What&apos;s the minimum order quantity (MOQ)?",
                 answer: "We work with low MOQs and can accommodate small batch production. For most items, we can start with as few as 50-100 pieces, making it perfect for startups and growing brands who want to test the market before scaling up."
               },
               {
@@ -1889,7 +1889,7 @@ export default function ZaraWireframe() {
                 answer: "Yes, we work with brands from around the world. Our team is experienced in international shipping, customs documentation, and working across different time zones. We've successfully delivered projects to clients in Europe, Asia, Australia, and the Americas."
               },
               {
-                question: "What's included in the sample development phase?",
+                question: "What&apos;s included in the sample development phase?",
                 answer: "The sample development phase includes initial concept sketches, technical drawings, material sourcing, pattern creation, and 2-3 rounds of sample iterations. We work closely with you to refine the design until it meets your exact specifications before moving to production."
               },
               {

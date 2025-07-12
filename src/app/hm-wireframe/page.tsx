@@ -299,7 +299,7 @@ export default function HMWireframe() {
             <div className="bg-white p-8">
               <div className="w-20 h-20 bg-[#C4C4C4] mb-6"></div>
               <p className="text-base text-gray-600 mb-6 font-medium leading-relaxed italic">
-                "Krazy Kreators transformed our design process completely. The quality and attention to detail exceeded our expectations."
+                &ldquo;Krazy Kreators transformed our design process completely. The quality and attention to detail exceeded our expectations.&rdquo;
               </p>
               <div className="w-full h-40 bg-[#C4C4C4]"></div>
             </div>
@@ -308,7 +308,7 @@ export default function HMWireframe() {
             <div className="bg-white p-8">
               <div className="w-20 h-20 bg-[#C4C4C4] mb-6"></div>
               <p className="text-base text-gray-600 mb-6 font-medium leading-relaxed italic">
-                "The retainer model saved us 40% on costs while improving our production timeline significantly."
+                &ldquo;The retainer model saved us 40% on costs while improving our production timeline significantly.&rdquo;
               </p>
               <div className="w-full h-40 bg-[#C4C4C4]"></div>
             </div>

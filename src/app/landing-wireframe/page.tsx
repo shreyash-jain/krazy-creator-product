@@ -1,9 +1,8 @@
 'use client';
 
-import { useState } from 'react';
+
 
 export default function LandingWireframe() {
-  const [activeSection, setActiveSection] = useState('hero');
 
   return (
     <div className="min-h-screen bg-[#F5F5F5]">
@@ -272,7 +271,7 @@ export default function LandingWireframe() {
                 <span className="text-gray-600 text-sm">Logo</span>
               </div>
               <p className="text-gray-600 mb-4 italic">
-                "Krazy Kreators transformed our design process completely. The quality and attention to detail exceeded our expectations."
+                &ldquo;Krazy Kreators transformed our design process completely. The quality and attention to detail exceeded our expectations.&rdquo;
               </p>
               <div className="w-full h-32 bg-[#C4C4C4] rounded flex items-center justify-center">
                 <span className="text-gray-600">Case Study Image</span>
@@ -285,7 +284,7 @@ export default function LandingWireframe() {
                 <span className="text-gray-600 text-sm">Logo</span>
               </div>
               <p className="text-gray-600 mb-4 italic">
-                "The retainer model saved us 40% on costs while improving our production timeline significantly."
+                &ldquo;The retainer model saved us 40% on costs while improving our production timeline significantly.&rdquo;
               </p>
               <div className="w-full h-32 bg-[#C4C4C4] rounded flex items-center justify-center">
                 <span className="text-gray-600">Case Study Image</span>

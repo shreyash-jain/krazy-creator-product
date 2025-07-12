@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
 import { Dialog, DialogContent, DialogDescription, DialogFooter, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog"
 import { FileText } from "lucide-react"
@@ -113,7 +113,7 @@ export default function Home() {
                 <DialogHeader>
                   <DialogTitle>Edit Profile</DialogTitle>
                   <DialogDescription>
-                    Make changes to your profile here. Click save when you're done.
+                    Make changes to your profile here. Click save when you&apos;re done.
                   </DialogDescription>
                 </DialogHeader>
                 <div className="grid gap-4 py-4">

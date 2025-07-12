@@ -302,7 +302,7 @@ export default function NikeWireframe() {
             <div className="bg-white p-10 transform hover:scale-105 transition-transform duration-300 shadow-2xl">
               <div className="w-24 h-24 bg-[#C4C4C4] mb-8"></div>
               <p className="text-lg text-gray-600 mb-8 font-bold leading-relaxed italic">
-                "Krazy Kreators transformed our design process completely. The quality and attention to detail exceeded our expectations."
+                &ldquo;Krazy Kreators transformed our design process completely. The quality and attention to detail exceeded our expectations.&rdquo;
               </p>
               <div className="w-full h-48 bg-[#C4C4C4]"></div>
             </div>
@@ -311,7 +311,7 @@ export default function NikeWireframe() {
             <div className="bg-white p-10 transform hover:scale-105 transition-transform duration-300 shadow-2xl">
               <div className="w-24 h-24 bg-[#C4C4C4] mb-8"></div>
               <p className="text-lg text-gray-600 mb-8 font-bold leading-relaxed italic">
-                "The retainer model saved us 40% on costs while improving our production timeline significantly."
+                &ldquo;The retainer model saved us 40% on costs while improving our production timeline significantly.&rdquo;
               </p>
               <div className="w-full h-48 bg-[#C4C4C4]"></div>
             </div>
