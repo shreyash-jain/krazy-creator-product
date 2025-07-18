@@ -2088,8 +2088,8 @@ export default function ResearchReport() {
             
             <div className="prose prose-neutral max-w-none w-full">
               <p className="text-base md:text-xl leading-relaxed text-neutral-700 mb-12 md:mb-16">
-                A comprehensive visual representation of the unified product architecture that seamlessly integrates Krazy Kreators' creative platform 
-                with Apprelix's manufacturing and production workflow, creating a complete end-to-end solution for fabric and garment manufacturing.
+                A comprehensive visual representation of the unified product architecture that seamlessly integrates Krazy Kreators&apos; creative platform 
+                with Apprelix&apos;s manufacturing and production workflow, creating a complete end-to-end solution for fabric and garment manufacturing.
               </p>
 
               {/* Diagram Title */}
@@ -2526,7 +2526,7 @@ export default function ResearchReport() {
                            <div className="flex items-center space-x-2">
                              <span className="text-sm text-gray-600">Organization</span>
                              <div className="relative inline-flex h-6 w-11 items-center rounded-full bg-blue-600">
-                               <div className="inline-block h-4 w-4 transform rounded-full bg-white transition"></div>
+                               <div className="inline-block h-4 w-4 transform translate-x-1 rounded-full bg-white transition"></div>
                              </div>
                              <span className="text-sm text-gray-600">Client</span>
                            </div>
@@ -2899,7 +2899,7 @@ export default function ResearchReport() {
                          <div className="flex items-center space-x-2">
                            <span className="text-xs text-gray-600">Org</span>
                            <div className="relative inline-flex h-5 w-9 items-center rounded-full bg-purple-600">
-                             <div className="inline-block h-3 w-3 transform translate-x-4 rounded-full bg-white transition"></div>
+                             <div className="inline-block h-3 w-3 transform translate-x-5 rounded-full bg-white transition"></div>
                            </div>
                            <span className="text-xs text-gray-600">Client</span>
                          </div>
@@ -2960,7 +2960,7 @@ export default function ResearchReport() {
                            <div className="flex items-center space-x-2">
                              <span className="text-sm text-gray-600">Organization</span>
                              <div className="relative inline-flex h-6 w-11 items-center rounded-full bg-purple-600">
-                               <div className="inline-block h-4 w-4 transform translate-x-5 rounded-full bg-white transition"></div>
+                               <div className="inline-block h-4 w-4 transform translate-x-6 rounded-full bg-white transition"></div>
                              </div>
                              <span className="text-sm text-gray-600">Client</span>
                            </div>
@@ -3827,7 +3827,7 @@ export default function ResearchReport() {
                             <span className="text-xs text-neutral-500">2 hours ago</span>
                           </div>
                           <div className="text-sm text-neutral-700">
-                            Hi! We've received your order specifications. The navy blue color is available in stock. 
+                            Hi! We&apos;ve received your order specifications. The navy blue color is available in stock. 
                             We can start production by next week. Do you have any specific quality requirements?
                           </div>
                         </div>
@@ -3861,7 +3861,7 @@ export default function ResearchReport() {
                             <span className="text-xs text-neutral-500">30 min ago</span>
                           </div>
                           <div className="text-sm text-neutral-700">
-                            Absolutely! We'll prepare a sample piece and ship it to you by tomorrow. 
+                            Absolutely! We&apos;ll prepare a sample piece and ship it to you by tomorrow. 
                             You should receive it within 2-3 days for approval.
                           </div>
                         </div>
